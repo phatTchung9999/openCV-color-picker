@@ -1,4 +1,4 @@
-# OpenCV Color Picker 🎨
+# OpenCV Color Picker 
 
 A simple OpenCV project that lets you click on an image to detect colors using HSV masking.
 
